@@ -1,0 +1,47 @@
+body{
+    background-color: greenyellow;
+    color:navy;
+    
+}
+
+img{
+    border:10px dashed navy;
+}
+
+h1,h3,h5{
+    color:black;
+      font-size: 20px;
+}
+
+#wow{
+    color:rebeccapurple;
+    font-weight:10;
+    font-size: 50px;
+    text-align: center
+ 
+}
+
+.underlinedGreen{
+    text-decoration-line: underline;
+    color: forestgreen;
+}
+h4{
+    font-size:10px;
+    font-weight:799;
+    color:midnightblue
+    
+}
+h2{
+    text-align: center
+}
+
+a{
+    color: blue;
+}
+a:hover{
+    color: yellow;
+}
+/*
+a:visited{
+    color: purple;
+}*/
